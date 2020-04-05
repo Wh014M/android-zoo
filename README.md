@@ -1,4 +1,5 @@
-# Android Zoo
+![Android Zoo](android-zoo.png)
+
 A collection of proof of concepts of android's malwares. For education purposes only.
 
 Samples:

@@ -5,6 +5,6 @@ For more real life examples you may need to edit the apps and remove the activit
 
 Samples:
   - The listener
-  - The watcher
+  - CopyCat
 
 More is yet to come.

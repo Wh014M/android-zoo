@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 0WpcHkilHj9HavOWi4tSSQEPc/k=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: PqqzngBcIyuPk0c5V8uSRC+tKig=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4bkhKgwt51PvGcEmSS+4DK12vTs=
+
+Name: res/drawable-xhdpi-v4/lockscreen_btn_fav_add.png
+SHA1-Digest: H3u2jVrPbjkIJ8e/VtwFr2l+XN8=
+
+Name: res/drawable-xhdpi-v4/lockscreen_btn_fav_remove.png
+SHA1-Digest: We7KdDZ360sePyfC77FKWLhdyZc=
+
+Name: mime.types
+SHA1-Digest: hc9QqyiMT73b93Fqi2ShliLxf/M=
+
+Name: resources.arsc
+SHA1-Digest: uqrGI+PKfxTwzxfv4CEWqITiFTI=
+
+Name: com/amazonaws/services/s3/request.handlers
+SHA1-Digest: Zo1aqC7/JAOBaRQ6WuVGp2bNUsg=
+
+Name: classes.dex
+SHA1-Digest: nJSQmyCl0YVKbozGao7NXc6UzNA=
+
+Name: res/raw/ver_des
+SHA1-Digest: uQRmdOIFhifBly64MiD0tm/W8ac=
+
+Name: res/raw/ex
+SHA1-Digest: sjhr7sv+DJ0J2y57R/G3U/suRSo=
+

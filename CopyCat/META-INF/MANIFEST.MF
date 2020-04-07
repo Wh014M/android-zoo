@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: Je/hZX9c2dPtd+EVcsbwGzQuqdk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: xkc/+wlMPgix+BgBv8oPTPy3HGs=
+
+Name: res/drawable-xhdpi-v4/lockscreen_btn_fav_add.png
+SHA1-Digest: G7C63ajGcT+If6Ta3o6M6Flb4es=
+
+Name: res/drawable-xhdpi-v4/lockscreen_btn_fav_remove.png
+SHA1-Digest: nRGbIbUAjtC2jcsaSgdcJzzKnyE=
+
+Name: mime.types
+SHA1-Digest: Y1dvJKEgGz95J5mmBV4zbX20IZc=
+
+Name: resources.arsc
+SHA1-Digest: 28PbMVzE41txfwJpwzkHvKDqMoA=
+
+Name: com/amazonaws/services/s3/request.handlers
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: classes.dex
+SHA1-Digest: /auxPXXqYF6pZvLksESgL/I6lbM=
+
+Name: res/raw/ver_des
+SHA1-Digest: lIITNwN7pguRlUT19D5t08mTIo8=
+
+Name: res/raw/ex
+SHA1-Digest: rDbvpak9ZA+IR1DYi/TeydguZJc=
+

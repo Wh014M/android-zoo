@@ -1,64 +1,38 @@
 
- https://arxiv.org/pdf/1801.02837
- https://arxiv.org/pdf/1802.04501
- https://arxiv.org/pdf/1709.08805
- https://arxiv.org/pdf/1803.03544
- https://arxiv.org/pdf/1801.08115
- https://arxiv.org/pdf/1611.10076
- https://arxiv.org/pdf/1808.04218
- https://arxiv.org/pdf/1711.05731
-
-{ "abstract": "30 Nov 2016 ... Mobile devices are very attractive attack surface for cyber thieves as ... Android malware authors use many anti-analysis techniques to hide ...", "title": "Android Inter-App Communication Threats and Detection Techniques", https://arxiv.org/abs/1611.10076 },
-
-{ "abstract": "detection technique called Personal Mobile Malware Guard –. PMMG- that ... Trojan are used to help attacking a system by ... To mitigate malware attacks, we should be aware of ..... Android Malware Through Static Analysis,” Fse 2014, pp.", "title": "[PDF] a mobile malware detection technique based on user's ... - arXiv", https://arxiv.org/pdf/1802.04328 },
-
-{ "abstract": "research advocates to utilize the techniques used by Malware to harden the tools in a similar ... Android phones which many of us are dependent upon heavily for our daily lives. ... becoming victims of attacks by Malware as part of the latter's.", "title": "[PDF] PDF only - arXiv", https://arxiv.org/pdf/1801.01970 },
-
-{ "abstract": "31 Oct 2017 ... learning is one of the most promising techniques in detecting mobile ... Therefore, with Android's policy of open-source kernel, malware writers ...", "title": "[PDF] Automated Poisoning Attacks and Defenses in Malware Detection ...", https://arxiv.org/pdf/1706.04146 },
-
-{ "abstract": "survey on malwares and its detection techniques. General ... recent increase in malware attacks against mobile devices based on Android and Apple iOS [6].", "title": "[PDF] Evolution and Detection of Polymorphic and Metamorphic ... - arXiv", https://arxiv.org/pdf/1406.7061 },
-
-{ "abstract": "19 Feb 2017 ... Fuzzy-hashing fingerprints are suitable for capturing malware static features. ... there is no such fingerprinting technique that leverages dynamic analysis and would act as the first defense against Android malware attacks.", "title": "DySign: Dynamic Fingerprinting for the Automatic Detection of ...", https://arxiv.org/abs/1702.05699 },
-
-{ "abstract": "10 Dec 2016 ... and we realize this using two novel interception techniques. The backend ... malware can still find its way to attack many Android devices.", "title": "[PDF] Monet: A User-oriented Behavior-based Malware Variants ... - arXiv", https://arxiv.org/pdf/1612.03312 },
-
-{ "abstract": "28 Apr 2017 ... Index Terms—Android Malware Detection, Static Analysis, Secure Machine Learning, Computer ... techniques can be significantly affected by carefully-crafted attacks exploiting knowledge of the learning algorithm; e.g.,.", "title": "[PDF] A Case Study on Android Malware Detection - arXiv", https://arxiv.org/pdf/1704.08996 },
-
-{ "abstract": "12 Mar 2018 ... deep neural networks can be fooled by evasion attacks (also referred to as ... we investigate the vulnerability of malware detection methods that use ..... learning-based detection against adversarial android malware attacks. In.", "title": "[PDF] Adversarial Malware Binaries: Evading Deep Learning for ... - arXiv", https://arxiv.org/pdf/1803.04173 },
-
-{ "abstract": "2 Aug 2017 ... by malicious Android applications to record all touchscreen input ...... implications of the attack, techniques and ideas exploited therein.", "title": "[PDF] Using Hover to Compromise the Confidentiality of User Input ... - arXiv", https://arxiv.org/pdf/1611.01477 },
-
-{ "abstract": "4 Sep 2017 ... ware analysis is known to fall short against techniques that change static ... mobile malware is designed to attack Android. Ac- cording to ...", "title": "[PDF] Android Malware Family Classification Based on Resource ...", https://arxiv.org/pdf/1709.00875 },
-
-{ "abstract": "6 Jul 2017 ... Almost all ML based Android malware detection techniques. (incl. the .... privacy leak attack spans across three ADG nodes. Therefore,.", "title": "[PDF] Context-aware, Adaptive and Scalable Android Malware ... - arXiv", https://arxiv.org/pdf/1706.00947 },
-
-{ "abstract": "international targets and eventually launch attacks if necessary. ... understanding information-hiding techniques in malware. .... Trojan:Android/FakeRegSMS.B.", "title": "[PDF] Information Hiding as a Challenge for Malware Detection - arXiv", https://arxiv.org/pdf/1504.04867 },
-
-{ "abstract": "analysis tools, which are open source in nature, for the Android platform and .... for an attack is malware. Cybercriminals are now using attacks and techniques.", "title": "[PDF] Open Source Android Vulnerability Detection Tools: A Survey - arXiv", https://arxiv.org/pdf/1807.11840 },
-
-{ "abstract": "6 Apr 2017 ... Meaning, some views are more amenable to detect certain attacks but may ... Most of the existing malware detection approaches use only one (or a ... that MKLDroid outperforms three state-of-the-art techniques consistently, ...", "title": "A Multi-view Context-aware Approach to Android Malware Detection ...", https://arxiv.org/abs/1704.01759 },
-
-{ "abstract": "These methods were designed to detect malware operating on the initial versions of Android, performing simpler attacks such as making premium-rated ...", "title": "[PDF] Adaptive and Scalable Android Malware Detection through ... - arXiv", https://arxiv.org/pdf/1606.07150 },
-
-{ "abstract": "spyware and other generic malware, ransomware attacks entirely compromise the ..... techniques could be suitable to Android malware detection. Chen et al.", "title": "[PDF] R-PackDroid: Practical On-Device Detection of Android ... - arXiv", https://arxiv.org/pdf/1805.09563 },
-
-{ "abstract": "14 Nov 2017 ... Contaminant Removal for Android Malware Detection Systems. Lichao Sun. ∗ ... based on data mining and machine learning techniques [6],. [7], [8]. .... to attacks, Android provides ”protection Level” to help characterize the ...", "title": "[PDF] arXiv:1711.02715v2 [cs.CR] 14 Nov 2017", https://arxiv.org/pdf/1711.02715 },
-
-{ "abstract": "28 Mar 2014 ... isting malware detection techniques, software or hardware, ... on flagging Android malicious apps by detecting payloads. Detecting malware ...", "title": "[PDF] Unsupervised Anomaly-based Malware Detection using Hardware ...", https://arxiv.org/pdf/1403.1631 },
-
-{ "abstract": "4 Feb 2018 ... IntelliAV against common obfuscation techniques where most of the .... attack malware, namely Chrysaor, which is presumed of infecting ...", "title": "[PDF] IntelliAV: Building an Effective On-Device Android Malware Detector", https://arxiv.org/pdf/1802.01185 },
-
-{ "abstract": "21 Feb 2016 ... ing attacks, even legitimate developers are encour- aged to obfuscate [19] their code. Similar techniques are used by an Android malware ...", "title": "[PDF] DroidNative: Semantic-Based Detection of Android Native Code ...", https://arxiv.org/pdf/1602.04693 },
-
-{ "abstract": "11 Feb 2018 ... botnets of IoT devices, which is currently a common attack. To accomplish ... Android malware detection [24, 25], the“Cloudeye” [2] is in practice the only ... machine learning methods are expected to be suitable too because.", "title": "[PDF] Lightweight Classification of IoT Malware based on Image ... - arXiv", https://arxiv.org/pdf/1802.03714 },
-
-{ "abstract": "26 Sep 2012 ... physically intrusive attack space by abusing the on-board sensors of a smartphone. ... However, the reconstruction techniques that ... Android for practical reasons, but we expect such malware to generalize to other platforms ...", "title": "[PDF] PlaceRaider: Virtual Theft in Physical Spaces with Smartphones", https://arxiv.org/pdf/1209.5982 },
-
-{ "abstract": "10 Dec 2016 ... Abstract: Android, the most popular mobile OS, has around 78% of the mobile market share. Due to its popularity, it attracts many malware attacks. ... generation, and we realize this using two novel interception techniques.", "title": "Monet: A User-oriented Behavior-based Malware Variants Detection ...", https://arxiv.org/abs/1612.03312 },
-
-{ "abstract": "3 Aug 2018 ... However, due to the evolution of attack strategies of Android malware [34] classifiers built on these features may not be sustainable—they ...", "title": "[PDF] A Preliminary Study On the Sustainability of Android Malware ... - arXiv", https://arxiv.org/pdf/1807.08221 },
-
-{ "abstract": "4 Apr 2018 ... techniques that leverage the blockchain network. Index Terms—Malware ... Also, the Mirai DDoS attacks on IoT made headlines and derived motives ... Furthermore, new Android and iOS malware are discov- ered each day.", "title": "[PDF] Developing a K-ary malware using Blockchain - arXiv", https://arxiv.org/pdf/1804.01488 },
+https://arxiv.org/pdf/1801.02837
+https://arxiv.org/pdf/1802.04501
+https://arxiv.org/pdf/1709.08805
+https://arxiv.org/pdf/1803.03544
+https://arxiv.org/pdf/1801.08115
+https://arxiv.org/pdf/1611.10076
+https://arxiv.org/pdf/1808.04218
+https://arxiv.org/pdf/1711.05731
+https://arxiv.org/abs/1611.10076
+https://arxiv.org/pdf/1802.04328
+https://arxiv.org/pdf/1801.01970
+https://arxiv.org/pdf/1706.04146
+https://arxiv.org/pdf/1406.7061
+https://arxiv.org/abs/1702.05699
+https://arxiv.org/pdf/1612.03312
+https://arxiv.org/pdf/1704.08996
+https://arxiv.org/pdf/1803.04173
+https://arxiv.org/pdf/1611.01477
+https://arxiv.org/pdf/1709.00875
+https://arxiv.org/pdf/1706.00947
+https://arxiv.org/pdf/1504.04867
+https://arxiv.org/pdf/1807.11840
+https://arxiv.org/abs/1704.01759 },
+https://arxiv.org/pdf/1606.07150 },
+https://arxiv.org/pdf/1805.09563 },
+https://arxiv.org/pdf/1711.02715 },
+https://arxiv.org/pdf/1403.1631 },
+https://arxiv.org/pdf/1802.01185 },
+https://arxiv.org/pdf/1602.04693 },
+https://arxiv.org/pdf/1802.03714 },
+https://arxiv.org/pdf/1209.5982 },
+https://arxiv.org/abs/1612.03312 },
+https://arxiv.org/pdf/1807.08221 },
+https://arxiv.org/pdf/1804.01488 },
 
 { "abstract": "5 Aug 2018 ... techniques to verify the attack effectiveness and transferability. .... some Android malware samples processed by binary features. As for the ...", "title": "[PDF] Adversarial Examples: Attacks on Machine Learning-based Malware ...", https://arxiv.org/pdf/1808.01546 },
 

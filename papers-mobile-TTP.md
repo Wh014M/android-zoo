@@ -1,20 +1,12 @@
 
-
-[ { "abstract": "malware attacks. ... analyze different malware detection techniques used for mobile operating ... two competing mobile operating systems – Android and iOS.", "title": "[PDF] malware detection techniques for mobile devices - arXiv", https://arxiv.org/pdf/1801.02837 },
-
-{ "abstract": "13 Feb 2018 ... phishing attacks on mobile systems in light, and to make people aware of ... Malware, Phishing, Anti-Phishing, Mobile Device, Mobile Application ... tems with 99.6% market share distributed as 81.7% for Android and 17.9% for.", "title": "[PDF] Phishing Techniques in Mobile Devices - arXiv", https://arxiv.org/pdf/1802.04501 },
-
-{ "abstract": "in the number of malwares attacking these devices [3]. Researchers have established two methods of malware detection. The first type is the static analysis [4] ...", "title": "[PDF] Malware Detection Approach for Android systems Using ... - arXiv", https://arxiv.org/pdf/1709.08805 },
-
-{ "abstract": "Finally, as shown by our empirical analysis on a popular Android malware detection ... about its security properties against adversarial attacks? To partially ... techniques and methodologies towards providing global ex- planations about the ...", "title": "[PDF] Explaining Black-box Android Malware Detection - arXiv", https://arxiv.org/pdf/1803.03544 },
-
-{ "abstract": "24 Jan 2018 ... the largest measurement of Android malware behavior to date, analyzing over 1.2 million .... We also find that the use of obfuscation techniques dramatically ..... to certain attack goals as characterized in [43]. In particular,.", "title": "[PDF] Eight Years of Rider Measurement in the Android Malware ... - arXiv", https://arxiv.org/pdf/1801.08115 },
-
-{ "abstract": "21 Sep 2017 ... Android malware authors use many anti-analysis techniques to hide from ... escalation attacks, privacy leakage and collusion attacks. We cover ...", "title": "[PDF] Android Inter-App Communication Threats and Detection Techniques", https://arxiv.org/pdf/1611.10076 },
-
-{ "abstract": "24 Aug 2018 ... the proposed methods [16], machine learning based solutions have been ... attack that generates adversarial malware examples in Android.", "title": "[PDF] Android HIV: A Study of Repackaging Malware for Evading ... - arXiv", https://arxiv.org/pdf/1808.04218 },
-
-{ "abstract": "15 Nov 2017 ... these techniques are vulnerable to transformation attacks. [14] and could be ... We developed a dynamic Android malware detection framework,.", "title": "[PDF] Android Malware Detection using Markov Chain Model of ... - arXiv", https://arxiv.org/pdf/1711.05731 },
+ https://arxiv.org/pdf/1801.02837
+ https://arxiv.org/pdf/1802.04501
+ https://arxiv.org/pdf/1709.08805
+ https://arxiv.org/pdf/1803.03544
+ https://arxiv.org/pdf/1801.08115
+ https://arxiv.org/pdf/1611.10076
+ https://arxiv.org/pdf/1808.04218
+ https://arxiv.org/pdf/1711.05731
 
 { "abstract": "30 Nov 2016 ... Mobile devices are very attractive attack surface for cyber thieves as ... Android malware authors use many anti-analysis techniques to hide ...", "title": "Android Inter-App Communication Threats and Detection Techniques", https://arxiv.org/abs/1611.10076 },
 

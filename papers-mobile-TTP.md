@@ -1,11 +1,11 @@
+## Papers about malwares o/
+![Malware Detection Techniques for mobile devices](https://arxiv.org/pdf/1801.02837)
 
-https://arxiv.org/pdf/1801.02837
+![Phishing Techniques in Mobile Devices](https://arxiv.org/pdf/1802.04501)
 
-https://arxiv.org/pdf/1802.04501
+![Malware Detection Approach for Android systems Using System Call Logs](https://arxiv.org/pdf/1709.08805)
 
-https://arxiv.org/pdf/1709.08805
-
-https://arxiv.org/pdf/1803.03544
+![Explaining Black-box Android Malware Detection](https://arxiv.org/pdf/1803.03544)
 
 https://arxiv.org/pdf/1801.08115
 

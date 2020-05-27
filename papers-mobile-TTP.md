@@ -1,4 +1,4 @@
-## Papers about malwares o/
+## Papers about malwares and mobile security o/
 ![Malware Detection Techniques for mobile devices](https://arxiv.org/pdf/1801.02837)
 
 ![Phishing Techniques in Mobile Devices](https://arxiv.org/pdf/1802.04501)
@@ -23,17 +23,17 @@
 
 ![Automated Poisoning Attacks and Defenses in Malware Detection Systems:An Adversarial Machine Learning Approach](https://arxiv.org/pdf/1706.04146)
 
-https://arxiv.org/pdf/1406.7061
+![1Evolutionand Detection of Polymorphic and Metamorphic Malwares: A Survey](https://arxiv.org/pdf/1406.7061)
 
-https://arxiv.org/abs/1702.05699
+![DySign: Dynamic Fingerprinting for the Automatic Detection of Android Malware](https://arxiv.org/abs/1702.05699)
 
-https://arxiv.org/pdf/1612.03312
+![Monet: A User-oriented Behavior-based MalwareVariants Detection System for Android](https://arxiv.org/pdf/1612.03312)
 
-https://arxiv.org/pdf/1704.08996
+![Yes, Machine Learning Can Be More Secure!A Case Study on Android Malware Detection](https://arxiv.org/pdf/1704.08996)
 
-https://arxiv.org/pdf/1803.04173
+![Adversarial Malware Binaries: Evading DeepLearning for Malware Detection in Executables](https://arxiv.org/pdf/1803.04173)
 
-https://arxiv.org/pdf/1611.01477
+![Using Hover to Compromise the Confidentiality of User Inputon Android](https://arxiv.org/pdf/1611.01477)
 
 https://arxiv.org/pdf/1709.00875
 

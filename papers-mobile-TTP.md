@@ -9,19 +9,19 @@
 
 ![Eight Years of Rider Measurement in the AndroidMalware Ecosystem](https://arxiv.org/pdf/1801.08115)
 
-https://arxiv.org/pdf/1611.10076
+![Android Inter-App Communication Threats andDetection Techniques](https://arxiv.org/pdf/1611.10076)
 
-https://arxiv.org/pdf/1808.04218
+![Android HIV: A Study of Repackaging Malware forEvading Machine-Learning Detection](https://arxiv.org/pdf/1808.04218)
 
-https://arxiv.org/pdf/1711.05731
+![Android Malware Detection using Markov ChainModel of Application Behaviors in RequestingSystem Services](https://arxiv.org/pdf/1711.05731)
 
-https://arxiv.org/abs/1611.10076
+![Android Inter-App Communication Threats and Detection Techniques](https://arxiv.org/abs/1611.10076)
 
-https://arxiv.org/pdf/1802.04328
+![Personal Mobile Malware GuardPMMG: a mobile malware detection techniquebased on user’s preferences](https://arxiv.org/pdf/1802.04328)
 
-https://arxiv.org/pdf/1801.01970
+![Using Malware’s Self-DefenceMechanism to HardenDefence andRemediation Tools](https://arxiv.org/pdf/1801.01970)
 
-https://arxiv.org/pdf/1706.04146
+![Automated Poisoning Attacks and Defenses in Malware Detection Systems:An Adversarial Machine Learning Approach](https://arxiv.org/pdf/1706.04146)
 
 https://arxiv.org/pdf/1406.7061
 

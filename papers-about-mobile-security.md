@@ -35,19 +35,19 @@
 
 ![Using Hover to Compromise the Confidentiality of User Inputon Android](https://arxiv.org/pdf/1611.01477)
 
-https://arxiv.org/pdf/1709.00875
+![Android Malware Family ClassificationBased on Resource Consumption over Time(Extended Version)](https://arxiv.org/pdf/1709.00875)
 
-https://arxiv.org/pdf/1706.00947
+![Context-aware, Adaptive and Scalable AndroidMalware Detection through Online Learning(extended version)](https://arxiv.org/pdf/1706.00947)
 
-https://arxiv.org/pdf/1504.04867
+![Information Hiding as a Challenge for Malware Detection](https://arxiv.org/pdf/1504.04867)
 
-https://arxiv.org/pdf/1807.11840
+![Open Source Android Vulnerability Detection Tools: A Survey](https://arxiv.org/pdf/1807.11840)
 
-https://arxiv.org/abs/1704.01759
+![A Multi-view Context-aware Approach to Android Malware Detectionand Malicious Code Localization](https://arxiv.org/pdf/1704.01759.pdf)
 
-https://arxiv.org/pdf/1606.07150
+![Adaptive and Scalable Android Malware Detectionthrough Online Learning](https://arxiv.org/pdf/1606.07150)
 
-https://arxiv.org/pdf/1805.09563
+![On the Effectiveness of System API-Related Informationfor Android Ransomware Detection](https://arxiv.org/pdf/1805.09563)
 
 https://arxiv.org/pdf/1711.02715
 

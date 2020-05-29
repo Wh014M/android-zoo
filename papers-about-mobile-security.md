@@ -49,19 +49,19 @@
 
 ![On the Effectiveness of System API-Related Informationfor Android Ransomware Detection](https://arxiv.org/pdf/1805.09563)
 
-https://arxiv.org/pdf/1711.02715
+![Contaminant Removal for Android Malware Detection Systems](https://arxiv.org/pdf/1711.02715)
 
-https://arxiv.org/pdf/1403.1631 
+![Unsupervised Anomaly-based Malware Detection usingHardware Features](https://arxiv.org/pdf/1403.1631)
 
-https://arxiv.org/pdf/1802.01185 
+![IntelliAV: Building an Effective On-DeviceAndroid Malware Detector](https://arxiv.org/pdf/1802.01185) 
 
-https://arxiv.org/pdf/1602.04693 
+![DroidNative: Semantic-Based Detection of AndroidNative Code Malware](https://arxiv.org/pdf/1602.04693) 
 
-https://arxiv.org/pdf/1802.03714 
+![Lightweight Classification of IoT Malware based on ImageRecognition](https://arxiv.org/pdf/1802.03714) 
 
-https://arxiv.org/pdf/1209.5982 
+![PlaceRaider:  Virtual Theft in Physical Spaces with Smartphones](https://arxiv.org/pdf/1209.5982) 
 
-https://arxiv.org/abs/1612.03312 
+![Monet: A User-oriented Behavior-based MalwareVariants Detection System for Android](https://arxiv.org/abs/1612.03312) 
 
 https://arxiv.org/pdf/1807.08221 
 

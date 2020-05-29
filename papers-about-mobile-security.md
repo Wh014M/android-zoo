@@ -63,25 +63,23 @@
 
 ![Monet: A User-oriented Behavior-based MalwareVariants Detection System for Android](https://arxiv.org/abs/1612.03312) 
 
-https://arxiv.org/pdf/1807.08221 
+![A Preliminary Study On the Sustainability of Android MalwareDetection](https://arxiv.org/pdf/1807.08221) 
 
-https://arxiv.org/pdf/1804.01488 
+![Developing a K-ary malware using Blockchain](https://arxiv.org/pdf/1804.01488) 
 
-https://arxiv.org/pdf/1808.01546 
+![ATMPA: Attacking Machine Learning-based MalwareVisualization Detection Methods via Adversarial Examples](https://arxiv.org/pdf/1808.01546) 
 
-https://arxiv.org/pdf/1805.06620 
+![DroidMark –A Tool for Android Malware Detectionusing Taint Analysis and Bayesian Network](https://arxiv.org/pdf/1805.06620) 
 
-https://arxiv.org/pdf/1803.05039 
+![AndroidInter-AppCommunication:Threats, Solutions, and Challenges](https://arxiv.org/pdf/1803.05039) 
 
-https://arxiv.org/pdf/1807.10446 
+![A Cyber Kill Chain Based Taxonomy ofBanking Trojansfor Evolutionary Computational Intelligence](https://arxiv.org/pdf/1807.10446) 
 
-https://arxiv.org/pdf/1705.02081 
+![The sharp for the Chang model is small](https://arxiv.org/pdf/1705.02081) 
 
-https://arxiv.org/pdf/1307.0687 
+![Security for Smart Mobile Networks:The NEMESYS Approach](https://arxiv.org/pdf/1307.0687) 
 
-https://arxiv.org/pdf/1806.04847 
-
-https://arxiv.org/pdf/1511.00104 
+![Cross-Platform Analysis of Indirect File Leaksin Android and iOS Applications](https://arxiv.org/pdf/1511.00104) 
 
 https://arxiv.org/pdf/1603.00588 
 

@@ -91,19 +91,19 @@
 
 ![Android Tapjacking Vulnerability](https://arxiv.org/pdf/1507.08694) 
 
-https://arxiv.org/abs/1707.04795 
+![Android Malware Clustering throughMalicious Payload Mining](https://arxiv.org/pdf/1707.04795.pdf) 
 
-https://arxiv.org/pdf/1702.05699 
+![DySign: Dynamic Fingerprinting for the AutomaticDetection of Android Malware](https://arxiv.org/pdf/1702.05699) 
 
-https://arxiv.org/pdf/1504.01693 
+![Security Toolbox for Detecting Novel andSophisticated Android Malware](https://arxiv.org/pdf/1504.01693) 
 
-https://arxiv.org/pdf/1704.01759 
+![A Multi-view Context-aware Approach to Android Malware Detectionand Malicious Code Localization](https://arxiv.org/pdf/1704.01759)
 
-https://arxiv.org/abs/1611.10231 
+![Android Code Protection via Obfuscation Techniques: Past, Present and Future Directions](https://arxiv.org/pdf/1611.10231.pdf) 
 
-https://arxiv.org/pdf/1708.01864 
+![Exploiting Latent Attack Semantics forIntelligent Malware Detection](https://arxiv.org/pdf/1708.01864) 
 
-https://arxiv.org/pdf/1802.06012 
+![WebEye– Automated Collection of MaliciousHTTP Traffic](https://arxiv.org/pdf/1802.06012) 
 
 https://arxiv.org/pdf/1502.04870
 

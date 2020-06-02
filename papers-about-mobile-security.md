@@ -81,15 +81,15 @@
 
 ![Cross-Platform Analysis of Indirect File Leaksin Android and iOS Applications](https://arxiv.org/pdf/1511.00104) 
 
-https://arxiv.org/pdf/1603.00588 
+![Decapitation via Digital Epidemics:A Bio-Inspired Transmissive Attack](https://arxiv.org/pdf/1603.00588) 
 
-https://arxiv.org/pdf/1803.03465 
+![Malytics: A Malware Detection Scheme](https://arxiv.org/pdf/1803.03465) 
 
-https://arxiv.org/pdf/1708.00969 
+![Modeling the Propagation of Trojan Malwarein Online Social Networks](https://arxiv.org/pdf/1708.00969) 
 
-https://arxiv.org/pdf/1801.02950 
+![Adversarial Deep Learning for Robust Detection ofBinary Encoded Malware](https://arxiv.org/pdf/1801.02950) 
 
-https://arxiv.org/pdf/1507.08694 
+![Android Tapjacking Vulnerability](https://arxiv.org/pdf/1507.08694) 
 
 https://arxiv.org/abs/1707.04795 
 

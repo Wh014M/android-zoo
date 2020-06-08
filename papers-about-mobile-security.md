@@ -105,11 +105,11 @@
 
 [WebEye– Automated Collection of MaliciousHTTP Traffic](https://arxiv.org/pdf/1802.06012) 
 
-https://arxiv.org/pdf/1502.04870
+![Evaluation of Security Solutions for Android Systems](https://arxiv.org/pdf/1502.04870)
 
-https://arxiv.org/pdf/1707.04795
+![Android Malware Clustering throughMalicious Payload Mining](https://arxiv.org/pdf/1707.04795)
 
-https://arxiv.org/pdf/1704.05948
+![Semi-supervised Classification for DynamicAndroid Malware Detection](https://arxiv.org/pdf/1704.05948)
 
 https://arxiv.org/pdf/1612.04433
 
